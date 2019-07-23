@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/roboform/static/css/main.cc8a01b0.chunk.css",
+    "main.js": "/roboform/static/js/main.4b94bd01.chunk.js",
+    "main.js.map": "/roboform/static/js/main.4b94bd01.chunk.js.map",
+    "runtime~main.js": "/roboform/static/js/runtime~main.fa0bc5c1.js",
+    "runtime~main.js.map": "/roboform/static/js/runtime~main.fa0bc5c1.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/roboform/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/roboform/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/roboform/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/roboform/index.html",
+    "precache-manifest.6e7346122d5f412f55c64728f7f0a794.js": "/roboform/precache-manifest.6e7346122d5f412f55c64728f7f0a794.js",
+    "service-worker.js": "/roboform/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/roboform/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.cc8a01b0.chunk.css.map": "/roboform/static/css/main.cc8a01b0.chunk.css.map",
+    "static/media/App.css": "/roboform/static/media/SEGA.12a3db8b.woff"
+  }
+}
